@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Except these files / folders
+!.gitignore
+!/player_model_projects
+!/player_models
+!/player_model_projects/*
+!/player_models/*
+!/player_model_projects/textures
+!/player_model_projects/textures/*
